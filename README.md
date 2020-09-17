@@ -1,6 +1,6 @@
 # Neural Networks for Options Pricing Based on Machine Learning 
 
-[![Chen Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Chen Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen Juan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
