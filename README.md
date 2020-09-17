@@ -1,6 +1,6 @@
 # Neural Networks for Options Pricing Based on Machine Learning 
 
-[![Chen Juan's github stats](https://github-readme-stats.vercel.app/api?username=Chen Juan)](https://github.com/anuraghazra/github-readme-stats)
+[![Chen Juan's github stats](https://github-readme-stats.vercel.app/api?username=CJuanvip)](https://github.com/anuraghazra/github-readme-stats)
 
 The purpose of this project is to apply option pricing models to price the S&P500 European options by using both parametric models and non-parametric machine learning models. For parametric models we apply Heston stochastic volatility model and variance gamma model. For machine learning methods, we construct three different classes of neural networks, and train and test the models using options data from 2000 to 2016.
 
